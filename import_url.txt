@@ -1,0 +1,2 @@
+movie: https://kamuinippo.notion.site/
+blog: https://zumuzmjp.github.io/kamui_gen3_nippo_new/index.html

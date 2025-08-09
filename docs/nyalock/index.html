@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ニャーロック Chat (RAG)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>ニャーロック Chat</h1>
+    <p class="subtitle">real_transcriptions.json をRAGとして、神威の口調で回答します</p>
+  </header>
+
+  <main class="container">
+    <section class="chat" id="chat"></section>
+
+    <form id="ask-form" class="ask-form">
+      <input id="query" type="text" placeholder="質問を入力してください（例: 昨日の会議の決定事項は？）" autocomplete="off" />
+      <button id="ask-btn" type="submit">送信</button>
+    </form>
+
+    <details class="settings">
+      <summary>設定</summary>
+      <div class="settings-grid">
+        <label>
+          LLMリレーエンドポイント(URL)
+          <input id="relay-endpoint" type="url" placeholder="https://your-worker.example.com/nyalock" />
+        </label>
+        <label class="row">
+          <input id="use-llm" type="checkbox" /> LLMを使用（中継経由）
+        </label>
+      </div>
+      <p class="note">注意: APIキーはクライアントに置きません。Cloudflare Workers等の中継を使用してください。</p>
+    </details>
+  </main>
+
+  <footer class="footer">
+    <small>© 2025 Nyalock. GitHub Pages 上で動作しています。</small>
+  </footer>
+
+  <script src="nyalock.js" type="module"></script>
+</body>
+</html>
