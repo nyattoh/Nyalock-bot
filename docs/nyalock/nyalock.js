@@ -1,5 +1,5 @@
 // Simple RAG client for GitHub Pages
-// - Loads docs/real_transcriptions.json
+// - Loads docs/real_transcriptions.json or docs/nyalock/real_transcriptions.json
 // - Builds a simple TF-IDF index in the browser
 // - Retrieves top-k passages and optionally calls an LLM relay endpoint
 
@@ -36,7 +36,6 @@ function tokenize(text) {
 }
 
 function buildIndex(items) {
-  // items: [{id, text, title, date, url}]
   const df = new Map();
   const tf = items.map(item => {
     const counts = new Map();
@@ -72,13 +71,34 @@ function score(query, index, topK = 8) {
   return scores.slice(0, topK).map(({ i, s }) => ({ ...index.items[i], score: s }));
 }
 
+async function fetchJsonWithFallback(paths) {
+  let lastErr = null;
+  for (const p of paths) {
+    try {
+      const res = await fetch(p, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      const ct = res.headers.get('content-type') || '';
+      const text = await res.text();
+      if (!ct.includes('application/json') && text.trim().startsWith('<')) {
+        throw new Error('Received HTML instead of JSON');
+      }
+      return JSON.parse(text);
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  throw lastErr || new Error('All fetch attempts failed');
+}
+
 async function loadData() {
   try {
-    const res = await fetch('../real_transcriptions.json', { cache: 'no-store' });
-    const data = await res.json();
-    // Normalize to small chunks
+    // Try same folder first, then parent docs folder
+    const data = await fetchJsonWithFallback([
+      './real_transcriptions.json',
+      '../real_transcriptions.json'
+    ]);
+
     const items = [];
-    const now = new Date().toISOString();
     if (Array.isArray(data?.transcriptions)) {
       for (const t of data.transcriptions) {
         const title = t?.metadata?.title || 'Untitled';
@@ -88,15 +108,10 @@ async function loadData() {
         if (!text) continue;
         const parts = text.split(/\n\n+/).filter(Boolean);
         parts.forEach((p, idx) => {
-          items.push({
-            id: `${url}#p${idx}`,
-            text: p.slice(0, 2000),
-            title, date, url
-          });
+          items.push({ id: `${url}#p${idx}`, text: p.slice(0, 2000), title, date, url });
         });
       }
     }
-    // fallback: videos
     if (Array.isArray(data?.videos)) {
       for (const v of data.videos) {
         const title = v?.metadata?.title || 'Untitled';
@@ -121,12 +136,8 @@ async function loadData() {
 async function callRelay(prompt, contexts) {
   const endpoint = relayEndpoint.value?.trim();
   if (!endpoint) return null;
-  const payload = { prompt, contexts, persona: 'kamui', style: {
-    tone: '落ち着いた・丁寧', disfluencies: true, persona: '神威'
-  }};
-  const res = await fetch(endpoint, {
-    method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload)
-  });
+  const payload = { prompt, contexts, persona: 'kamui', style: { tone: '落ち着いた・丁寧', disfluencies: true, persona: '神威' }};
+  const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
   if (!res.ok) throw new Error(`Relay error: ${res.status}`);
   const data = await res.json();
   return data?.text || data?.answer || JSON.stringify(data);
