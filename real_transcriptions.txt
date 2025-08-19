@@ -1,5 +1,5 @@
 # 神威日報 Zoom録画リアルタイム文字起こしデータ
-生成日時: 2025-08-19 13:30:02
+生成日時: 2025-08-19 14:14:52
 総動画数: 38
 ================================================================================
 
@@ -934,10 +934,10 @@ URL: https://zoom.us/rec/share/Dj0K2YLvtzYovkH1xfj8sR8nVhkwAy-17-75h0dY16sjBpg3q
 
 ================================================================================
 
-## 神威日報技術ミーティング
-日付: 2025-08-19
+## Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom
+日付: 2015-07-23
 URL: https://zoom.us/rec/share/U3uGNLaKihtMVtiCI3nGU_I3WmOqdReBzGKn2FG2dcryxTycKfdLFHBpONFaE1wD.gMWF9BM0RHD0UVg-
-ステータス: error
+ステータス: available
 ------------------------------------------------------------
 # 実際の文字起こし（音声ファイル: audio_20.mp3）
 
