@@ -2,7 +2,7 @@
   "metadata": {
     "source": "神威日報 Zoom録画 Whisper API文字起こし",
     "total_videos": 38,
-    "created_at": "2025-08-30T13:28:59.215600",
+    "created_at": "2025-08-30T14:13:40.971695",
     "description": "Whisper APIを使用した実際の音声から口調まで含めた詳細な文字起こしデータ",
     "format": "JSON",
     "version": "2.0",
@@ -20,7 +20,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:31.152141"
+      "extracted_at": "2025-08-30T14:12:12.413487"
     },
     {
       "metadata": {
@@ -33,7 +33,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:34.005560"
+      "extracted_at": "2025-08-30T14:12:15.130723"
     },
     {
       "metadata": {
@@ -46,7 +46,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:36.300227"
+      "extracted_at": "2025-08-30T14:12:17.408960"
     },
     {
       "metadata": {
@@ -59,7 +59,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:38.623749"
+      "extracted_at": "2025-08-30T14:12:19.687295"
     },
     {
       "metadata": {
@@ -72,7 +72,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:40.895581"
+      "extracted_at": "2025-08-30T14:12:21.970341"
     },
     {
       "metadata": {
@@ -85,7 +85,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:43.157750"
+      "extracted_at": "2025-08-30T14:12:24.244520"
     },
     {
       "metadata": {
@@ -98,7 +98,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:45.420959"
+      "extracted_at": "2025-08-30T14:12:26.666116"
     },
     {
       "metadata": {
@@ -111,7 +111,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:47.706234"
+      "extracted_at": "2025-08-30T14:12:28.985405"
     },
     {
       "metadata": {
@@ -124,7 +124,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:49.962450"
+      "extracted_at": "2025-08-30T14:12:31.263422"
     },
     {
       "metadata": {
@@ -137,7 +137,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:52.225546"
+      "extracted_at": "2025-08-30T14:12:33.533220"
     },
     {
       "metadata": {
@@ -150,7 +150,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:54.499811"
+      "extracted_at": "2025-08-30T14:12:35.833041"
     },
     {
       "metadata": {
@@ -163,7 +163,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:57.188089"
+      "extracted_at": "2025-08-30T14:12:38.084063"
     },
     {
       "metadata": {
@@ -176,7 +176,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:27:59.460349"
+      "extracted_at": "2025-08-30T14:12:40.575391"
     },
     {
       "metadata": {
@@ -189,7 +189,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:01.749989"
+      "extracted_at": "2025-08-30T14:12:42.836726"
     },
     {
       "metadata": {
@@ -202,7 +202,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:04.049062"
+      "extracted_at": "2025-08-30T14:12:45.259021"
     },
     {
       "metadata": {
@@ -215,7 +215,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:06.321019"
+      "extracted_at": "2025-08-30T14:12:47.515495"
     },
     {
       "metadata": {
@@ -228,7 +228,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:08.580808"
+      "extracted_at": "2025-08-30T14:12:49.796567"
     },
     {
       "metadata": {
@@ -241,7 +241,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:10.849008"
+      "extracted_at": "2025-08-30T14:12:52.051901"
     },
     {
       "metadata": {
@@ -254,7 +254,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:13.142783"
+      "extracted_at": "2025-08-30T14:12:54.698528"
     },
     {
       "metadata": {
@@ -267,7 +267,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:15.445067"
+      "extracted_at": "2025-08-30T14:12:57.294377"
     },
     {
       "metadata": {
@@ -280,7 +280,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:17.711550"
+      "extracted_at": "2025-08-30T14:12:59.599362"
     },
     {
       "metadata": {
@@ -293,7 +293,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:20.018465"
+      "extracted_at": "2025-08-30T14:13:01.875586"
     },
     {
       "metadata": {
@@ -306,7 +306,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:22.277837"
+      "extracted_at": "2025-08-30T14:13:04.136637"
     },
     {
       "metadata": {
@@ -319,7 +319,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:24.577523"
+      "extracted_at": "2025-08-30T14:13:06.434918"
     },
     {
       "metadata": {
@@ -332,7 +332,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:26.901090"
+      "extracted_at": "2025-08-30T14:13:08.703311"
     },
     {
       "metadata": {
@@ -345,7 +345,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:29.172194"
+      "extracted_at": "2025-08-30T14:13:11.023633"
     },
     {
       "metadata": {
@@ -358,7 +358,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:31.446341"
+      "extracted_at": "2025-08-30T14:13:13.584917"
     },
     {
       "metadata": {
@@ -371,7 +371,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:33.741894"
+      "extracted_at": "2025-08-30T14:13:15.895272"
     },
     {
       "metadata": {
@@ -384,7 +384,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:36.019658"
+      "extracted_at": "2025-08-30T14:13:18.175100"
     },
     {
       "metadata": {
@@ -397,7 +397,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:38.445020"
+      "extracted_at": "2025-08-30T14:13:20.481988"
     },
     {
       "metadata": {
@@ -410,7 +410,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:40.817187"
+      "extracted_at": "2025-08-30T14:13:22.761197"
     },
     {
       "metadata": {
@@ -423,7 +423,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:43.089897"
+      "extracted_at": "2025-08-30T14:13:25.019827"
     },
     {
       "metadata": {
@@ -436,7 +436,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:45.371060"
+      "extracted_at": "2025-08-30T14:13:27.310404"
     },
     {
       "metadata": {
@@ -449,7 +449,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:47.673060"
+      "extracted_at": "2025-08-30T14:13:29.595051"
     },
     {
       "metadata": {
@@ -462,7 +462,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:49.944510"
+      "extracted_at": "2025-08-30T14:13:31.898765"
     },
     {
       "metadata": {
@@ -475,7 +475,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:52.556285"
+      "extracted_at": "2025-08-30T14:13:34.152995"
     },
     {
       "metadata": {
@@ -488,7 +488,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:54.911716"
+      "extracted_at": "2025-08-30T14:13:36.420842"
     },
     {
       "metadata": {
@@ -501,7 +501,7 @@
       },
       "audio_url": "https://st1.zoom.us/fe-static/recording-player-mobile/css/chunk-vendors.04676bf6.css",
       "transcription": "Whisper APIエラー: \n\nYou tried to access openai.Audio, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
-      "extracted_at": "2025-08-30T13:28:57.164502"
+      "extracted_at": "2025-08-30T14:13:38.949041"
     }
   ]
 }
